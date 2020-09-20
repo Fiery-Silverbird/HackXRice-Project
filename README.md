@@ -4,5 +4,6 @@
  - [x] backend, computations
 # Chevron Challenge
   * Made an app that tracks inputted work orders in an mongoDB database, assigns work to workers based on qualifications and their preferred time automatically.
-- [ ] algorithmic computation of assignments
+- [x] algorithmic computation of assignments
 - [x] data storage (mongoDB database)
+- [x] sending work information to the workers from the results of the algorithm
